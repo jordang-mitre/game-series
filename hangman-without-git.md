@@ -989,6 +989,7 @@ def show_hangman(wrong_guesses):
     stages = [
         """
 ```  +---+
+  +---+
   |   |
       |
       |
