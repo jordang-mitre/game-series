@@ -1028,7 +1028,7 @@ def show_hangman(wrong_guesses):
   +---+
   |   |
   O   |
- /|\\  |
+ /|\\ |
       |
       |
 =========
@@ -1037,7 +1037,7 @@ def show_hangman(wrong_guesses):
   +---+
   |   |
   O   |
- /|\\  |
+ /|\\ |
  /    |
       |
 =========
@@ -1046,8 +1046,8 @@ def show_hangman(wrong_guesses):
   +---+
   |   |
   O   |
- /|\\  |
- / \\  |
+ /|\\ |
+ / \\ |
       |
 =========
 """
