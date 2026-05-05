@@ -988,7 +988,7 @@ You can also add a text drawing that changes as the player makes wrong guesses.
 def show_hangman(wrong_guesses):
     stages = [
         """
-  +---+
+```  +---+
   |   |
       |
       |
@@ -1051,7 +1051,7 @@ def show_hangman(wrong_guesses):
 =========
 """
     ]
-
+```
     print(stages[wrong_guesses])
 
 Try calling it inside your game loop.
